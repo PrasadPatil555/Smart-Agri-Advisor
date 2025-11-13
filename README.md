@@ -1,1 +1,2 @@
 # Smart-Agri-Advisor
+Developed an intelligent agriculture advisory system using JavaScript, React.js, SQL, and Python to provide data-driven farming recommendations. Integrated AI and ML models to analyze soil, weather, and crop data, enabling farmers to make informed decisions that improve crop yield and resource efficiency. Focused on building an interactive React-based dashboard for real-time insights and performance enhancement.
